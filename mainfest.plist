@@ -11,33 +11,35 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/aa358437932/test/master/快猫11.ipa</string>
+					<string><![CDATA[https://ly27.cn/data/attachment/8892851767f97f582d65a75ee0e0effe.ipa]]></string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
+					<key>needs-shine</key>
+					<integer>0</integer>
 					<key>url</key>
-					<string>https://fr.bcmaxs.com/ios/1.png</string>
+					<string><![CDATA[https://ly27.cn/data/attachment/18f3e6931d777b06a2f7e6e9709cd1ea.png?v=1591769458]]></string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
 					<key>url</key>
-					<string>https://fr.bcmaxs.com/ios/2.png</string>
+					<string><![CDATA[https://ly27.cn/data/attachment/18f3e6931d777b06a2f7e6e9709cd1ea.png?v=1591769458]]></string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>btc.TGR.coin</string>
+				<string>btc.ADF.coin</string>
 				<key>bundle-version</key>
-				<string>2.0.5</string>
+				<string><![CDATA[1.0]]></string>
 				<key>kind</key>
 				<string>software</string>
-				<key>platform-identifier</key>
-				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>BCMAX</string>
+				<string><![CDATA[快猫]]></string>
 			</dict>
 		</dict>
 	</array>
